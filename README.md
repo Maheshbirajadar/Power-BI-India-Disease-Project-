@@ -1,4 +1,3 @@
-# Indian_Disease-Power BI- Project-
 
 # Indian_ Disease- Data Analysis (Interactive Dashboard created using Power BI)
 
