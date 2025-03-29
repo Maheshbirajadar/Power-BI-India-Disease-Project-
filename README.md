@@ -57,7 +57,7 @@ This dataset comes from a hospital and the Dashboard aims to analyze disease tre
 > Cancer (51.06 years), Tuberculosis (49.88 years), and Diabetes (49.77 years) show the highest average ages.
 > Asthma has the lowest average age (45.15 years), meaning it affects relatively younger individuals.
 
-# **Report Recommendations for Hospital Client:**
+# **Report Recommendation for Hospital Client:**
 
 1) West Bengal (114), Uttar Pradesh (110), and Bihar (97) have the highest cases. Expanding operations and outreach in these states can improve healthcare access."
 2) The Hospitals should Hire Doctors how are specialized in Diabetes, as Diabetes diseases are High.
