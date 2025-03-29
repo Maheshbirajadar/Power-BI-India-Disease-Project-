@@ -27,7 +27,7 @@ This dataset comes from a hospital and the Dashboard aims to analyze disease tre
 6) Which daily route is linked to the highest disease rate?
 7) What is the distribution of gender across different disease?
 
-#** Challenges Faced**
+# **Challenges Faced**
 1) As the data source is ChatGPT, it was hard to imagine the outcome of data because the People who do daily Activities, Non-Smoking and Eats good food count was more.
 2) The Age column data type was Text, So performed Trim which removed extra space the got changed to Whole Number.
 3) Removed Duplicates (Performed on Patient ID)
